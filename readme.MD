@@ -78,8 +78,8 @@ Pokedex > pokedex
 Your Pokedex:
  - magikarp
  ```
- 
-Tech Stack
+
+## Tech Stack
 
 Language: Go
 
@@ -91,11 +91,12 @@ Data Handling: JSON unmarshalling, dynamic structs
 
 CLI Patterns: Modular commands with callbacks, infinite REPL loop
 
-How to Run
+## How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/go-pokedex.git
+git clone https://github.com/franciscodev64/go-pokedex.git
+
 cd go-pokedex
 
 Build and run:

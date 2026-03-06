@@ -77,6 +77,8 @@ Types:
 Pokedex > pokedex
 Your Pokedex:
  - magikarp
+ ```
+ 
 Tech Stack
 
 Language: Go
